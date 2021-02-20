@@ -1,13 +1,13 @@
 {
   "type": "application",
-  "name": "MyApplication",
-  "category": null,
+  "name": "GDevelop 5",
+  "category": Develop,
   "server": "server.js",
   "title": {
-    "en_EN": "My Application"
+    "en_EN": "GDevelop"
   },
   "description": {
-    "en_EN": "My Application"
+    "en_EN": "Description"
   },
   "files": [
     "main.js",
