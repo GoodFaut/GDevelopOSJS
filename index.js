@@ -10,7 +10,7 @@ const register = (core, args, options, metadata) => {
   // Create  a new Window instance
   proc.createWindow({
     id: 'App',
-    title: metadata.title.en_ES,
+    title:GDevelop 5
     dimension: {width: 400, height: 400},
     position: {left: 700, top: 200}
   })
